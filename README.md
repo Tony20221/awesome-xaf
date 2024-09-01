@@ -42,7 +42,7 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 
 
 ## Sample Projects
-* [Sample Proyects](https://github.com/DevExpress-Examples)-Official Sample Proyects, by DevExpress.
+* [Sample Projects](https://github.com/DevExpress-Examples)-Official Sample Projects, by DevExpress.
 
 
 
@@ -58,7 +58,6 @@ To get started with XAF, follow the instructions in the [XAF Get Started](https:
 * [XAFARI](https://galaktika-soft.com/xafari) 
 * [SenDev XAF Dashboards](https://github.com/SenDevGmbH/SenDevXafDashboards) 
 * [Ultra modules](https://github.com/egarim/Ultra) 
-* [Xenial Framework](https://github.com/xenial-io/Xenial.Framework) 
 
 
 
